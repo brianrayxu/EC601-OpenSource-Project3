@@ -11,4 +11,4 @@ Here is a link to the guide I used: https://jitsi.github.io/handbook/docs/devops
 ## Phase 2: Security/Architecture Analysis
 The way Jitsi Meet is designed can be explained in this graphic:
 
-<img src="./GetCamera.png">
+<img src="Images/jitsigraph.png">
