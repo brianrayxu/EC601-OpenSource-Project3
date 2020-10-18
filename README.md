@@ -1,7 +1,14 @@
 # EC601-OpenSource-Project3
 Project 3 opensource implementation of Jitsi Meet
 
-## Process
+## Phase 1: Open Source Implementation
+The specific implementation used is a Docker Container running a basic Jitsi Meet Server. 
 
-So far, I just ran the simple example provided on the Jitsi Meet website. I run the server on a docker instance on VirtualBox and then access it from my local machine. Below are some samples of output of this.
+Here is a link to the guide I used: https://jitsi.github.io/handbook/docs/devops-guide/devops-guide-quickstart
 
+
+
+## Phase 2: Security/Architecture Analysis
+The way Jitsi Meet is designed can be explained in this graphic:
+
+<img src="./GetCamera.png">
