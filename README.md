@@ -1,6 +1,7 @@
 # EC601-OpenSource-Project3
-Project 3 opensource implementation of Jitsi Meet
+Project 3 opensource implementation of Jitsi Meet 
 
+As you can see, there is no code in this project. The code is all online on the Jitsi Meet webpage.
 ## Phase 1: Open Source Implementation
 The specific implementation used is a Docker Container running a basic Jitsi Meet Server. 
 
@@ -16,13 +17,9 @@ The way Jitsi Meet is designed can be explained in this graphic:
 
 <img src="Images/jitsigraph.png">
 
-The server uses XMPP () in order to accomplish its signalling tasks. So, looking into the logs for this might give insight into any security flaws of the signalling layer.
+The server uses XMPP  in order to accomplish its signalling tasks. So, looking into the logs for this might give insight into any security flaws of the signalling layer.
 
-In order to see the logs, we use the given default XMPP Credentials (can be located on the installation guide). The default credentials are:
-
-Username:
-
-Password:
+In order to see the logs, we use the given default XMPP Credentials (can be located on the installation guide). 
 
 
 
